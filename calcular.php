@@ -33,7 +33,7 @@ switch($edad)
         echo "El doble de tu edad";
         break;
     default:
-        echo "Se hizo un echo"
+        echo "Se hizo un echo";
     break;
 }
 
